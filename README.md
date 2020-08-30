@@ -1,4 +1,4 @@
-# Udcity Data Engineering Nanodegree Capstone Project
+# Udcity DEND Capstone Project
 
 
 **Brief Intro:**
